@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nica366
+- 👀 I’m interested in front end development and ux/ui design
+- 🌱 I’m currently learning everything that is required for front end... beginer..
+- 💞️ I’m looking to collaborate on learning front end
+- 📫 How to reach me here on github
